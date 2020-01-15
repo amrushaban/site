@@ -26,6 +26,7 @@ created: 2014-11-19 20:25:22
 * [Bodyweight exercise - Wikipedia](https://en.wikipedia.org/wiki/Bodyweight_exercise)
 * [Calisthenics - Wikipedia](http://en.wikipedia.org/wiki/Calisthenics)
 * [This Is The Rep Range You Should Train - David Dellanave](http://www.dellanave.com/this-is-the-rep-range-you-should-train/)
+* [Calisthenics workout: Training Principles & Beginner Workout Plan)(https://strengthgang.com/calisthenincs)
 
 ## Human Anatomy
 
